@@ -1,2 +1,2 @@
-# PCA
-PCA analysis of set data
+# Numerical module 
+![Logo](./Newton.jpg)
